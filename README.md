@@ -37,7 +37,7 @@ Git • GitHub • Azure DevOps • Power Apps • Microsoft Dynamics 365 • Ve
 ### 📫 How to Reach Me
 - **Email:** gyamjosherpa1@gmail.com
 - **LinkedIn:** [linkedin.com/in/gyamjo-sherpa](https://linkedin.com/in/gyamjo-sherpa)  
-- **Portfolio:** (gyamjosherpa.vercel.app)
+- **Portfolio:** [gyamjosherpa.dev](gyamjosherpa.vercel.app)
 
 ---
 
